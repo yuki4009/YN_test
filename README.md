@@ -1,0 +1,2 @@
+# YN_test
+はじめてのGithub
